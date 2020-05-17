@@ -1,2 +1,2 @@
 # competitive-programming
-collection on ps
+collection of ps
