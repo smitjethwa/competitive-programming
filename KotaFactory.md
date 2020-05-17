@@ -13,21 +13,21 @@ Group 1: {5}; Group 2: {2, 3}
 
 After explaining the problem and demonstrating the way, he tells students that it is a Chocolate Problem and also the batch can be changed if you successfully solve the problem. At first, everyone got excited and thought of it a cakewalk but when they set down to solve the problem they realized that Jeetu Bhaiya has given very large inputs. Vaibhav and Meena want to change the Batch and also get the chocolate. But they are unable to solve the problem for big inputs. They are ready to offer you Kachoris, if you can help them get the correct answer. Can you help them for Kachoris ?
 
-Input Format
+### Input Format
+#### 1st Line: Number of elements in an array a : n
+#### Next line: n elements, seperated by space.
 
-1st Line: Number of elements in an array a : n
-Next line: n elements, seperated by space.
-Constraints
+### Constraints
 
-1 <= n <= 5
-2 <= elements <= 10
-Output Format
+#### 1 <= n <= 5
+#### 2 <= elements <= 10
+
+### Output Format
 
 Print the number of ways of dividing the dummies into groups such that the gcd of their product is 1.
 
-##### Sample Input 0
-### 3
-### 2 3 5
-##### Sample Output 
-### 0
-### 6
+### Sample Input 0
+#### 3
+#### 2 3 5
+### Sample Output 0
+#### 6
